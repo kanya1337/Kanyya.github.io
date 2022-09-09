@@ -18,7 +18,7 @@ function tıkla(){
     h1.innerText=`siktir git bu siteden ${kelimeler} ${isimler}`
     setTimeout(() => {
         window.location.replace('https://www.youtube.com/watch?v=tsQkwRof5Ko&ab_channel=Lunatic0120')
-    }, 8000);
+    }, 15000);
     }
 }
 
