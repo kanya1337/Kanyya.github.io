@@ -32,7 +32,7 @@ const random = Math.floor(Math.random() * 8)
     }else{ 
     h1.innerText=`siktir git bu siteden ${kelimeler} ${isimler}`
     setTimeout(() => {
-        window.location.replace('https://www.youtube.com/watch?v=tsQkwRof5Ko&ab_channel=Lunatic0120')
+        window.location.replace('https://www.youtube.com/watch?v=PGAzq_ABKZc&ab_channel=HasanBayram')
     }, 8000);
     }
 }
