@@ -31,6 +31,8 @@ const random = Math.floor(Math.random() * 8)
         h1.innerText=` ${kanyalaf} kanya`
     }else{ 
     h1.innerText=`siktir git bu siteden ${kelimeler} ${isimler}`
+    setTimeout(() => { 
+     window.location.replace('https://youtu.be/PGAzq_ABKZc?t=1699') }, 8000);
     
     }
 }
